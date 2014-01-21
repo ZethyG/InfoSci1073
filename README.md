@@ -3,14 +3,14 @@ InfoSci1073
 
 This is a Repo!  
 
-Jay Palat / vpalat@pitt.edu
+Seth Graham / stg34@pitt.edu
 ==================
 Three Facts About Me
 ---
 
-*   I enjoy reading.
-*   I am a Pitt Graduate.
-*   I have run a half-marathon.
+*   I enjoy exercising and sports.
+*   I am a senior at Pitt.
+*   I enjoy playing video games.
 
 ---
 Make some changes locally.  I want to add  a sentence.
